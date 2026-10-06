@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=1800&pause=600&color=3FB950&background=FFFFFF00&multiline=true&repeat=false&width=620&height=130&lines=%24%20whoami;mikhail_stepanov%20%20%23%20%D1%81%D1%82%D0%B0%D0%B6%D1%91%D1%80-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85;%24%20status;%D0%B8%D1%89%D1%83%20%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D1%83_" alt="$ whoami"/> </p>
+<p align="center"> <img src="terminal.svg" alt="$ whoami — стажёр-аналитик данных, ищу стажировку" width="573"/> </p>
 
 ```console
 $ cat about.txt
@@ -15,14 +15,14 @@ $ cat profile.py
 class Mikhail:
     role      = "Стажёр — аналитик данных"
     education = "НИЯУ МИФИ, магистратура"
-    stack     = ["Python", "SQL", "pandas", "NumPy", "SciPy", "Matplotlib"]
+    stack     = ["Python", "SQL", "pandas", "NumPy", "SciPy", "Matplotlib", "Seaborn", "MS Office"]
     focus     = ["анализ данных", "статистика", "A/B-тесты"]
     status    = "ищу стажировку"
 ```
 
 ```console
 $ ls ~/skills
-python/  sql/  pandas/  numpy/  scipy/  matplotlib/  jupyter/  git/  linux/
+python/  sql/  pandas/  numpy/  scipy/  matplotlib/   jupyter/  git/  linux/  seaborn/  ms office/
 ```
 
 <p align="center">
